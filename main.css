@@ -55,23 +55,23 @@
  /* === Transparent Content Without Folder Interference === */
  [class*="sidebar"],
  [class*="scroller"],
- [class*="container"]:not(.folder__17546):not(.wrapper__3af0b),
+ /*[class*="container"]:not(.folder__17546):not(.wrapper__3af0b),*/
  [class*="chat"],
  [class*="region"],
  [class*="base"],
  [class*="form"],
  [class*="standardSidebar"],
- [class*="content"]:not(.folder__17546):not(.wrapper__3af0b),
- [class*="panel"],
+ /*[class*="content"]:not(.folder__17546):not(.wrapper__3af0b),*/
+ /*[class*="panel"],*/
  [class*="main"],
  [class*="applicationStore"],
  [class*="nowPlaying"],
- [class*="accountProfileCard"],
- [class*="settings"],
+ /*[class*="accountProfileCard"],
+ [class*="settings"],*/
  [class*="messages"],
  [class*="column"],
  [class*="section"],
- [class*="layer"] > div,
+ /*[class*="layer"] > div,*/
  [class*="layer"] > section,
  [class*="layer"] > main,
  [class*="layer"] > [class*="flex"],
