@@ -299,3 +299,11 @@
   --background-modifier-selected: rgba(255, 192, 203, 0.3) !important;
   --background-modifier-accent: rgba(255, 192, 203, 0.15) !important;
 }
+
+/* Bottom left panel area */
+.wrapper_ef3116,
+.guilds__5e434 {
+  background: transparent !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
