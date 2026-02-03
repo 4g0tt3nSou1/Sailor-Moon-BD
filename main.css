@@ -34,7 +34,7 @@
  }
  
  /* === Background === */
- .layers__960e4::before {
+ .layers__960e4::after {
    content: "";
    position: fixed;
    inset: 0;
@@ -42,7 +42,7 @@
    z-index: 0;
    pointer-events: none;
  }
- .layers__960e4::after {
+ .layers__960e4::before {
    content: "";
    position: fixed;
    inset: 0;
