@@ -52,7 +52,7 @@
    pointer-events: none;
  }
  
- /* === Transparent Content Without Folder Interference === */
+ /* === Transparent Content Without Folder Interference ===
  [class*="sidebar"],
  [class*="scroller"],
  [class*="container"]:not(.folder__17546):not(.wrapper__3af0b),
@@ -84,7 +84,7 @@
    background: transparent !important;
    background-color: transparent !important;
    box-shadow: none !important;
- }
+ } */
  
  /* === DO NOT interfere with Discord's folder previews === */
  .folderIcon__48112 foreignObject > div > div {
