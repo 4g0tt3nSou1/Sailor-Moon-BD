@@ -290,12 +290,12 @@
   --background-tertiary: transparent !important;
   --channeltextarea-background: transparent !important;
   --background-accent: transparent !important;
-  --background-floating: transparent !important;
+  --background-floating: rgba(45, 40, 55, 0.95) !important;
   --background-secondary-alt: transparent !important;
   --deprecated-panel-background: transparent !important;
   --deprecated-card-bg: transparent !important;
-  --modal-background: transparent !important;
-  --background-modifier-hover: transparent !important;
-  --background-modifier-selected: transparent !important;
-  --background-modifier-accent: transparent !important;
+  --modal-background: rgba(45, 40, 55, 0.95) !important;
+  --background-modifier-hover: rgba(255, 192, 203, 0.2) !important;
+  --background-modifier-selected: rgba(255, 192, 203, 0.3) !important;
+  --background-modifier-accent: rgba(255, 192, 203, 0.15) !important;
 }
